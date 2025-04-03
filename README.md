@@ -1,6 +1,5 @@
 # Sinhala-NLP-SriLanka-Constitution-Chatbot
 Sinhala-NLP-Constitution-Chatbot is an AI-powered system that provides answers based on the Sri Lankan Constitution using NLP techniques. It applies Sinhala tokenization, word embeddings, and retrieval-augmented generation (RAG) with FAISS to retrieve and generate context-aware responses, making constitutional knowledge more accessible.
-# Sinhala-NLP-Constitution-Chatbot
 
 ## Introduction
 Sinhala-NLP-Constitution-Chatbot is an AI-powered chatbot designed to provide answers based on the **Sri Lankan Constitution** using **natural language processing (NLP) techniques**. It combines **Sinhala tokenization, word embeddings, and retrieval-augmented generation (RAG) with FAISS** to fetch and generate accurate legal information. This project aims to improve access to constitutional knowledge in Sinhala.
