@@ -1,0 +1,9 @@
+faiss-cpu
+gensim
+llama-index
+numpy
+pandas
+scikit-learn
+sentencepiece
+torch
+transformers
